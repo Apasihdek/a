@@ -98,4 +98,5 @@ ip,anonymityLevel,asn,country,isp,latency,org,port,protocols,responseTime,speed,
 "23.106.249.54","elite","AS59253","SG","Leaseweb Singapore Pte. Ltd.","173","Leaseweb Asia Pacific pte. ltd.","443","socks4","4828","1","2026-02-04T17:22:51.828Z","92","924","1009"
 "144.91.115.113","elite","AS51167","FR","Contabo GmbH","6","Contabo GmbH","19099","socks4","4079","1","2026-02-04T17:22:51.924Z","100","1346","1347"
 "185.170.233.106","elite","AS206912","CY","Superdach LTD","57","Infra","47574","socks4","4087","1","2026-02-04T17:22:51.814Z","100","4213","4222"
+
 "43.225.52.155","elite","AS394695","IN","PDRSOLUTIONSFZC","459","P.D.R Solutions","80","socks4","2775","1","2026-02-04T17:22:51.813Z","91","1610","1766"
